@@ -1,5 +1,6 @@
 ## What is this?
-A simple powershell script to Bulk-import movie requests into Jellyseerr from a simple `Title,Year` CSV—no IMDb/Trakt required.
+A simple powershell script to Bulk-import movie requests into Jellyseerr from a simple `Title,Year` CSV—no IMDb/Trakt required. I recommend reading this in a text editor, its formatted to be easily read there.
+
 
 ## Features
 - Robust search (URL-encoded, ASCII fallback)
@@ -40,6 +41,7 @@ Algiers,1938
 Bird of Paradise,1932
 Danger Lights, 1930
 Dixiana,1930
+
 
 ## Notes
 -If requests fail with Radarr errors, set default server/profile/root in Jellyseerr (Settings → Services → Radarr).
